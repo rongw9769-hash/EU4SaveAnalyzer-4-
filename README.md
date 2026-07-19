@@ -1,2 +1,3 @@
 # EU4SaveAnalyzer-4-
 EU4 Save Analyzer 是一款《欧陆风云4》本地存档分析工具，可将存档解析为交互式 HTML 报告和结构化 JSON 数据。报告涵盖国家治理、财政债务、军事与将领、省份、阶层与特权、附属国、外交、列强、地区局势、战争与战斗、和平条约及国家编年史，并可根据存档历史重建领土变化、战争进程和君主更替。支持搜索、筛选与折叠查看；对无法可靠确认的数据会明确标注为动态、潜在或推断内容。
+EU4 Save Analyzer is a local save-analysis tool for Europa Universalis IV. It converts saves into interactive HTML reports and structured JSON, covering governance, finance, military, provinces, estates, subjects, diplomacy, great powers, wars, battles, peace deals, regional conditions, historical trends, and a national chronicle.
