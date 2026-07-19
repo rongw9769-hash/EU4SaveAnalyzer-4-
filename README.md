@@ -1,11 +1,13 @@
-项目总结
+## Project Overview
 
-EU4 Save Analyzer 是一款《欧陆风云4》本地存档分析工具，可将存档解析为交互式 HTML 报告和结构化 JSON 数据。报告涵盖国家治理、财政债务、军事与将领、省份、阶层与特权、附属国、外交、列强、地区局势、战争与战斗、和平条约及国家编年史，并可根据存档历史重建领土变化、战争进程和君主更替。支持中英文切换、搜索、筛选与折叠查看；对无法可靠确认的数据会明确标注为动态、潜在或推断内容。
+EU4 Save Analyzer is a local save-file analysis tool for Europa Universalis IV. It parses save files into interactive HTML reports and structured JSON data. The reports cover national governance, finances and debt, military forces and commanders, provinces, estates and privileges, subjects, diplomacy, great powers, regional conditions, wars and battles, peace treaties, and a national chronicle. It can also reconstruct territorial changes, war progression, and ruler succession based on historical data preserved in the save file. The tool supports Chinese and English switching, searching, filtering, and collapsible sections. Data that cannot be reliably confirmed is clearly marked as dynamic, potential, or inferred.
 
-项目缘起
+## Project Background
 
-玩《十字军之王 3》时，我习惯在一个角色去世后，把游戏中的人物记忆复制给 AI，让它整理和讲述这个角色的一生。尤其是在铁人模式下，这种方式能让一段无法重来的游戏经历更有历史感和纪念意义。
+When playing Crusader Kings III, I developed a habit of copying a character's in-game memories to an AI after the character's death, allowing it to organize and narrate the character's entire life. This was especially meaningful in Ironman mode, where every playthrough is irreversible and each story feels more historical and worth preserving.
 
-最近开始玩《欧陆风云 4》后，我也想用类似的方式记录一局游戏。但 EU4 的历史记录无法方便地复制和整理，因此有了开发这个工具的想法：将存档中的国家数据、战争、领土变化和历史事件提取出来，生成一份适合阅读、复盘和交给 AI 分析的报告。
+After recently starting to play Europa Universalis IV, I wanted to record my campaigns in a similar way. However, EU4's historical records cannot be easily copied and organized, which inspired me to create this tool: extracting national data, wars, territorial changes, and historical events from save files to generate reports suitable for reading, campaign review, and AI-assisted analysis.
 
-这个项目主要是为了满足我自己的战役记录和叙事需求。项目的主要代码实现由 Codex 完成，我负责提出需求、确定功能方向、测试存档、发现问题并推动迭代。
+This project was created primarily to satisfy my own needs for campaign documentation and storytelling. Most of the code implementation was completed by Codex, while I was responsible for proposing requirements, defining feature directions, testing save files, identifying issues, and driving iterative improvements.
+
+##Translate By Chat Gpt
